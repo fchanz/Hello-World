@@ -1,0 +1,5 @@
+C:\Users\fchanzhe\Documents\Freddy\C# course\Chapter 2\MyFirstHelloWorld\MyFirstHelloWorld\bin\MyFirstHelloWorld.dll
+C:\Users\fchanzhe\Documents\Freddy\C# course\Chapter 2\MyFirstHelloWorld\MyFirstHelloWorld\bin\MyFirstHelloWorld.pdb
+C:\Users\fchanzhe\Documents\Freddy\C# course\Chapter 2\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fchanzhe\Documents\Freddy\C# course\Chapter 2\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\MyFirstHelloWorld.dll
+C:\Users\fchanzhe\Documents\Freddy\C# course\Chapter 2\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\MyFirstHelloWorld.pdb
